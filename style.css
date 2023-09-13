@@ -64,4 +64,13 @@ a:hover
 .carousel-inner h5
 {
     overflow: hidden;
-} 
+}
+
+marquee
+{
+    background-color: #003262;
+    color: whitesmoke;
+    margin: 0px;
+    padding: 5px;
+    font-size: large;
+}
