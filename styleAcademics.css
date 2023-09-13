@@ -11,6 +11,17 @@ p
     display: block;
     text-align: center;
     max-width: 300px;
-    padding: 10px;
     border-radius: 10px;
+    height: 100px;
+    padding: 20px 50px;
+    overflow:hidden ;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+p:hover
+{
+    background-color: #E0E0E0;
 }
