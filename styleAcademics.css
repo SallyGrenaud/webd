@@ -2,3 +2,15 @@
 {
     margin-top:100px;
 }
+
+p
+{
+    margin: 50px 100px ;
+    border: 2px;
+    border-style:solid ;
+    display: block;
+    text-align: center;
+    max-width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+}
