@@ -30,5 +30,6 @@ a:hover
 p:hover
 {
     background-color: #E0E0E0;
+    filter: drop-shadow(0 0 3px #333);
     transform: scale(1.1);
 }
